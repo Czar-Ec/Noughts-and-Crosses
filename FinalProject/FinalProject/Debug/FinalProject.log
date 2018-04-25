@@ -1,0 +1,5 @@
+﻿  GameLogic.cpp
+  GameAI.cpp
+  Generating Code...
+c:\users\mr\documents\visual studio 2015\projects\programming\spring\finalproject\finalproject\gamelogic.cpp(362): warning C4715: 'XO::whosTurn': not all control paths return a value
+  FinalProject.vcxproj -> C:\Users\Mr\Documents\Visual Studio 2015\Projects\Programming\Spring\FinalProject\Debug\FinalProject.exe
