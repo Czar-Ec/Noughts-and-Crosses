@@ -14,3 +14,6 @@ FinalProject >> FinalProject.sln
 
 PLEASE DON'T MOVE THINGS AROUND.
 BAD THINGS HAPPEN.
+
+
+NOTE: This was my first time doing a solo project and at the time only had 6 months of experience programming. Please be gentle when reviewing this, I have feelings too.
